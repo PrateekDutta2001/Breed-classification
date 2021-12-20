@@ -1,2 +1,5 @@
 # Breed-classification
-An advance approach for sheep breed classification using sklearn| Keras-Tensorflow| CNN - accuracy achieved was 99.97%
+
+In the field of Husbandry, its little difficult to detect the breed of animals in order to estimate the commercial value production. Usually it can be classified with the help of DNA testing but its expensive and sometime not affordable. Lameness in sheep is one of the concerns which is to be taken care. It usually happens due to inadequate of healthcare and welfare among the country serving sheep industry. This paper aims to classify the sheep according to their respective breed. Basically 4 breeds have been taken into consideration and by applying neural networks, the sheep breed has been classified. Throughout the task the accuracy of 99.97% was achieved while training the CNN model & 87.1% was achieved while testing the model. With the help of this classifier, sheep farmer can identify the breed more accurately and efficiently.
+
+**Other Detail**
